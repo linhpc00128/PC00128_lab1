@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>LeNhatLinh_lab1 </title>
+    </head>
+<body>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_FPT_Polytechnic.jpg"
+             />
+    <ins><h2>BÁO CÁO LAB1 COM1013</h2></ins>
+    <h1 style="color: red">XÂY D?NG TRANG WEB</h1>
+    <h2><i>Gi?ng viên</i>: <b>Lê Thanh Nhu?n</b><br />
+    <i>Sinh viên th?c hi?n</i>: <b>Lê Nh?t Linh</b><br />
+    <i>M? s?</i>: <b>PC00128</b><br />
+    <i>L?p</i>: <b>?ng d?ng ph?n m?m 1</b></h2></center>
+    <hr />
+    <center><h2>Sõ lý?c v? HTML</h2></center>
+    <p align ="justify">
+        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width ="70"
+             align="left"/>
+    <p style="font-size: 20px;"> 
+        <b>HTML</b> (ti?ng Anh, vi?t t?t cho 
+        <b><a href="https://vi.wikipedia.org/wiki/HTML">HyperText Markup Language</a></b>, 
+        hay là <i>"Ngôn ng? Ðánh d?u Siêu vãn b?n"</i>) là m?t ngôn ng? ðánh
+        d?u ðý?c thi?t k? ra ð? t?o nên các trang web v?i các m?u thông
+        tin ðý?c tr?nh bày trên World Wide Web. Cùng v?i CSS và JavaScript,
+        HTML t?o ra b? ba n?n t?ng k? thu?t cho World Wide Web.
+        HTML ðý?c ð?nh ngh?a nhý là m?t ?ng d?ng ðõn gi?n c?a SGML và
+        ðý?c s? d?ng trong các t? ch?c c?n ð?n các yêu c?u xu?t b?n ph?c t?p.
+        HTML ð? tr? thành m?t chu?n Internet do t? ch?c World Wide Web
+        Consortium (W3C) duy tr?. Phiên b?n chính th?c m?i nh?t c?a HTML 
+        là HTML 4.01 (1999). Sau ðó, các nhà phát tri?n ð? thay th? nó 
+        b?ng XHTML. Hi?n nay, HTML ðang ðý?c phát tri?n ti?p v?i phiên
+        b?n HTML5 h?a h?n mang l?i di?n m?o m?i cho Web.</p>
+    </p>
+    <h3><mark><a href="https://www.w3schools.com/">Link reference exercises</a><br/>
+        </mark></h3>
+    <!-- This is a comment -->
+<p>Bài t?p tham kh?o t?t và hi?u qu?.</p>
+<!-- Comments are not displayed in the browser -->
+<center><table border="1" width ="50%">
+    <tr bgcolor="LightGray">
+        <th height="50px">HTML/CSS</th>
+        <th >JavaScript</th>
+        <th>Server Side</th>
+    </tr>
+    <tr>
+        <td height="50px">HTML</td>
+        <td>Ajax</td>
+        <td>PHP</td>
+    </tr>
+    <tr>
+        <td height="50px">CSS</td>
+        <td>Angularjs</td>
+        <td>MySQL</td>
+    </tr>
+    </table></center>
+
+
+    
